@@ -18,7 +18,7 @@ This is a Python program that generates the password using a backtracking algori
 To run this program, you need to have Python installed on your system. This program is compatible with Python 3.x.
 
 ## Installation
-git clone https://github.com/vanga.ramani/password-generator.git
+git clone https://github.com/vanga_ramani/password-generator.git
 cd random-password-generator
 python password_generator.py
 
